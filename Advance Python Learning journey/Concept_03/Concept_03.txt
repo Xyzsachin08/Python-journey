@@ -1,0 +1,8 @@
+Goal: Master all Python collections and string manipulations.
+Topics:
+•Lists: indexing, slicing, methods, nested lists, list comprehensions
+•Tuples: immutable sequences, unpacking, nested tuples
+•Sets: unique elements, union/intersection/difference, set methods
+•Dictionaries: key-value pairs, iteration, nested dicts, dictionary comprehension
+•Strings: indexing, slicing, methods, formatting, concatenation, reversing, join, split, replace, regex basics (re module)
+Practice: Palindrome checker

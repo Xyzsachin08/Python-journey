@@ -1,0 +1,9 @@
+Goal: Understand classes, objects, and advanced OOP concepts
+Topics:
+•Classes & objects: attributes, methods, init, self
+•Encapsulation: public, protected (_var), private (__var), property decorators
+•Inheritance: single, multiple, multilevel; method overriding, super()
+•Polymorphism & duck typing
+•Class methods, static methods, magic/dunder methods (__str__, repr, len, add)
+•Advanced OOP: abstract classes (abc module), data classes (@dataclass)
+Practice: Bank account system, car class hierarchy, employee management system

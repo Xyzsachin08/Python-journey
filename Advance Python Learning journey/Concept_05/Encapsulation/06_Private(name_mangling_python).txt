@@ -1,0 +1,14 @@
+Name mangling in python
+actually python internally:
+(__balance) is ko convert karta hai (_Bank__balance)
+
+example :-
+class Bank:
+def __init__(self):
+    self.__balance = 5000
+
+b = Bank()
+print(b._Bank__balance)
+
+output = 5000
+
